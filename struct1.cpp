@@ -1,5 +1,5 @@
 #include<iostream>
-#include<ctime>
+#include<ctime>  // for time()
 #include<cstdlib>
 using namespace std;
 
